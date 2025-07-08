@@ -3,7 +3,6 @@
 
 A modern Swift-based iOS app that helps users track and reduce their daily carbon footprint. Users can log daily activities (travel, food, shopping) and see their total environmental impact in real-time. The app is designed to promote sustainable living and raise awareness about individual carbon contributions.
 
----
 
 ## 📱 App Overview
 
@@ -14,7 +13,6 @@ The **Personal Carbon Footprint Tracker (Swifty)** makes climate consciousness a
 - Offline-first usage with persistent data storage
 - Beautiful green-themed UI aligned with eco-goals
 
----
 
 ## ✨ Features
 
@@ -24,13 +22,11 @@ The **Personal Carbon Footprint Tracker (Swifty)** makes climate consciousness a
 - 🌱 **Sustainability Tips**: Get actionable advice to reduce your footprint (coming soon)
 - 🔍 **Detailed Entries**: Browse and edit logged habits easily
 
----
 
 ## 📸 Screenshots
 
 Coming soon: Add screenshots of the home screen, add entry screen, and CO₂ summary
 
----
 
 ## 🚀 Getting Started
 
@@ -56,7 +52,6 @@ open CarbonFootprintTrackerSwifty.xcodeproj
 
 3. **Build & Run** on simulator or physical device
 
----
 
 ## 🛠 Technologies Used
 
@@ -67,7 +62,6 @@ open CarbonFootprintTrackerSwifty.xcodeproj
 | UIKit       | Frontend interface                           |
 | Xcode       | iOS development environment                  |
 
----
 
 ## 💡 Future Enhancements
 
@@ -76,13 +70,11 @@ open CarbonFootprintTrackerSwifty.xcodeproj
 - 🧠 AI-powered habit suggestions (OpenAI API)
 - 🔔 Daily reminder to log your activity
 
----
 
 ## 🙌 Contribution
 
 Feel free to fork this repo, improve it, and create pull requests. Suggestions and feature requests are welcome too!
 
----
 
 ## 🌍 Why This App Matters
 
